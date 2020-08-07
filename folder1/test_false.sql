@@ -1,1 +1,1 @@
-select * from Datastore.dbo.TestTablexyz
+select * from Datastore.dbo.TestTable
