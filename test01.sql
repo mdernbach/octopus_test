@@ -1,1 +1,1 @@
-SELECT count(*) from Datastore.dbo.TestTable1abc
+SELECT count(*) from Datastore.dbo.TestTable1
