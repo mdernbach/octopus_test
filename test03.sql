@@ -1,1 +1,1 @@
-select TOP(2) from Datastore.dbo.TestTable1
+select TOP(2)* from Datastore.dbo.TestTable1
